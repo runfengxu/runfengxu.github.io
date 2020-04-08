@@ -11,7 +11,7 @@ url: "http://runfengxu.github.io"          # your host, for absolute URL
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-# sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Computer Science Student"
 sidebar-avatar: /img/headfile.PNG     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

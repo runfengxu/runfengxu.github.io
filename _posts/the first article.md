@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      My First Post
+subtitle:   The first post
+date:       2020-04-08
+author:     Rain
+header-img: img/headfile.jpg
+catalog: true
+tags:
+---
+# This is a test artilcle
+

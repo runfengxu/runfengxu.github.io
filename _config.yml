@@ -1,7 +1,7 @@
 # Site settings
 title: Rain
 SEOTitle: Rain's website
-header-img: img/post-bg-desk.jpg
+header-img: img/headfile.png
 email: qiubaiying@gmail.com
 description: "learning Web application/Web security right now"
 keyword: ""
@@ -60,7 +60,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: False    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称

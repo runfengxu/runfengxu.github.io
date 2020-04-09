@@ -6,9 +6,9 @@ date:       2020-04-08
 author:     Rain
 header-img: img/clarkson.jpg
 catalog: true
-tags:
-		- centos
-		- linux
+tags:	
+ - centos
+ - linux
 ---
 
 ## Use PuTTY to access EC2 Linux Instances via SSH from Windows

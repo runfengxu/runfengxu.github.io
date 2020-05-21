@@ -33,3 +33,6 @@ Same issue happens, when open a new terminal, this environ variable does not exi
 unless I execute `source ~/.profile`, but this is not less work than simply export the variable once again.
 
 How can I export once and in the future it will remain existing?
+
+Solved:
+add it to ~/.bashrc. because ./bashrc will be source every time you open a shell. but ./profile will not.

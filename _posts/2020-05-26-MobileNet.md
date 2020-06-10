@@ -46,5 +46,25 @@ THis paper describes an efficient network and **a set of two hyper-parameters** 
 $\alpha$   channels: $\alpha M$, $\alpha N$
 ### Resolution multiplier:
 
+<br>
+<hr>
 
 
+
+
+
+## MObileNet_v2: inverted Residuals and Linear bottleneck.
+
+### inverted residuals:
+ - original residual blocks: wide-narrow-wide
+<img src="https://miro.medium.com/max/1184/1*5Jdh_PDTXp0uhF8c79TEsQ.png">
+ - inverted: narrow - wide- narrow
+ <img src="https://miro.medium.com/max/765/1*BaxdP8RS5x_EVMNJSd1Urg.png">
+
+
+ ### linear bottleneck
+
+ remove the last activation layer before the last convolutional layer.
+
+
+ ### relu 6 instead of relu

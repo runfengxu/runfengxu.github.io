@@ -24,3 +24,19 @@ when learning, better start from higher level to lower level
 
  Building CNN using a estimator. please refer to
  https://towardsdatascience.com/first-contact-with-tensorflow-estimator-69a5e072998d#:~:text=An%20Estimator%20is%20any%20class,as%20need%20by%20customizing%20them.
+
+
+
+
+
+
+
+
+ ## development set up
+
+ - 06/14 bloody experience, DOn't use colab when you trying to use different tools and packages. THe version conflicts will drive you nuts. 
+
+ In the last 3-4 days, I was having endless nightmare with constructing tensorflow model, different saved model format, tensorflow js model format. Turns out when utilizing different packages and tools the Colab environment becomes unreliable.
+Because it has so many built-in packages, and the version conflicts will keep generating weirdest bugs. Better set up a local environment and do the good version control work by yourself.
+
+

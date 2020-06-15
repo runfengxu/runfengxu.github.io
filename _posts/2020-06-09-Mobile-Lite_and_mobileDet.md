@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Mobilenet-lite and MobileDet
+title:      Efficientnet-lite and EfficientDet
 subtitle:   Mobilenet network
 date:       2020-04-15
 author:     Rain
@@ -27,8 +27,8 @@ changes from EfficientNet Lite to EfficientNet.
 
 
 
- ### MobileDet:
-
+ ### EfficientDet:
+Efficientnet backbone + BiFPN
  #### BiFPN
  <img src="https://miro.medium.com/max/1400/1*funGGmYqT6f2VkRnhqd2rA.png">
 

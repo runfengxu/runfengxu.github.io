@@ -68,3 +68,13 @@ $\alpha$   channels: $\alpha M$, $\alpha N$
 
 
  ### relu 6 instead of relu
+
+
+ ## MobileNet V3
+
+ ### Squeeze-and-Excitation networks
+
+ ### Platform-Aware NAS for Block-wise Search.
+
+ ### hard-swish activation layers.
+ 

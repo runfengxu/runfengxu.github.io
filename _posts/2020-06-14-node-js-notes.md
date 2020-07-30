@@ -14,3 +14,14 @@ weird things happens, when I first run a node js server script in my VM, it work
 https://stackoverflow.com/questions/20091433/cant-find-out-where-does-a-node-js-app-running-and-cant-kill-it/29663533
 
 And this is super interesting.
+
+
+## file system
+const fs = require('fs');
+ - fs.rename(old_path,new_path,(err)=>{})
+ - fs.appendFile(file_path,data,(err)=>{})
+ - fs.unlink(file_path,(err)=>{})  //delete a file
+ - fs.mkdir(folder_name,(err)=>{})
+ - fs.rmdir(folder_name,(err)=>{})    <br>   // the directory has to be empty
+ - fs.writeFile(file_path,data,(err)=>{})
+ - fs.readdir(FOLDER_PATH,(err,files)=>{})

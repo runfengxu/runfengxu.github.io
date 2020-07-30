@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      MnasNet
-subtitle:   AutoML: machine learning to explore neural network architecture
+subtitle:   Machine learning to explore neural network architecture
 date:       2020-04-15
 author:     Rain
 header-img: img/clarkson.jpg

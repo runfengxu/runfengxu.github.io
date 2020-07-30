@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      MobileNets:open-source Models for efficient on-device vision
+title:      MobileNets
 subtitle:   Mobilenet network
 date:       2020-04-15
 author:     Rain
@@ -73,7 +73,7 @@ $\alpha$   channels: $\alpha M$, $\alpha N$
  ## MobileNet V3
 
  ### Squeeze-and-Excitation networks
-
+https://towardsdatascience.com/squeeze-and-excitation-networks-9ef5e71eacd7
  ### Platform-Aware NAS for Block-wise Search.
 
  ### hard-swish activation layers.
